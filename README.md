@@ -61,6 +61,3 @@ Welcome to my GitHub profile! I'm a final year BTech CSE student with a solid fo
 
 - **Tech Enthusiast**: Always exploring new technologies and tools to stay ahead in the rapidly evolving tech landscape.
 
----
-
-This README is crafted to be visually engaging and professionally concise, highlighting your capabilities and interests in a way that is appealing to recruiters and potential collaborators.
