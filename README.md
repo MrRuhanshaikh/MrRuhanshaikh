@@ -1,4 +1,4 @@
-# 👋 Here's a snapshot of my skills and professional attributes.
+# Here's a snapshot of my skills and professional attributes.
 
 ## 🎓 About Me
 
