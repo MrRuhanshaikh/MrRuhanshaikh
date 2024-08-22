@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Mohammed Ruhan Shaikh
-
-Welcome to my GitHub profile! I'm a final year BTech CSE student with a solid foundation in software engineering and a passion for building innovative solutions. Here's a snapshot of my skills and professional attributes.
+# 👋 Here's a snapshot of my skills and professional attributes.
 
 ## 🎓 About Me
 
