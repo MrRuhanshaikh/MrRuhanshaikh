@@ -62,15 +62,10 @@ Welcome to my GitHub profile! I'm a final year BTech CSE student with a solid fo
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://your-portfolio-link)
+- [LinkedIn](https://linkedin.com/in/ruhan-shaikh-50a558280)
 - [Email](mailto:ruhan1192002@gmail.com)
 
 ## 🌟 Fun Fact
 
 - **Tech Enthusiast**: Always exploring new technologies and tools to stay ahead in the rapidly evolving tech landscape.
 
----
-
-This format uses HTML `<p>` tags to align the icons horizontally, making your README visually appealing and easy to read. You can directly copy and paste this into your `README.md` file on GitHub.
