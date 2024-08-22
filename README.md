@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a final year BTech CSE student with a solid fo
 ## 🚀 Skills & Technologies
 
 ### Frontend Development
+<p>
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -18,27 +19,30 @@ Welcome to my GitHub profile! I'm a final year BTech CSE student with a solid fo
 - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
 - ![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white)
-
+</p>
 ### Backend Development
+<p>
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
 - ![EJS](https://img.shields.io/badge/EJS-%234F5B93?style=flat&logo=ejs&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 - ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000?style=flat&logo=mongoose&logoColor=white)
 - ![Auth.js](https://img.shields.io/badge/Auth.js-%230D6EFD?style=flat&logo=auth&logoColor=white)
-
+</p>
 ### Problem Solving
+<p>
 - ![Java](https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white)
 - ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%234F5B93?style=flat&logo=python&logoColor=white)
-
+</p>
 ### Additional Skills
+<p>
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat&logo=wordpress&logoColor=white)
 - ![SEO](https://img.shields.io/badge/SEO-%23000000?style=flat&logo=seo&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-%F24E1E?style=flat&logo=figma&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=canva&logoColor=white)
-
+</p>
 ## 🌟 Professional Attributes
 
 - **Strong Analytical Skills**: Proficient in solving complex problems and designing efficient algorithms.
